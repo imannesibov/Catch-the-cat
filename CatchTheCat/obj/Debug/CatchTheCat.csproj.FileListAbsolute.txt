@@ -1,0 +1,18 @@
+C:\Users\lenovo 330\source\repos\CatchTheCat\CatchTheCat\bin\Debug\CatchTheCat.exe.config
+C:\Users\lenovo 330\source\repos\CatchTheCat\CatchTheCat\bin\Debug\CatchTheCat.exe
+C:\Users\lenovo 330\source\repos\CatchTheCat\CatchTheCat\bin\Debug\CatchTheCat.pdb
+C:\Users\lenovo 330\source\repos\CatchTheCat\CatchTheCat\obj\Debug\CatchTheCat.csprojAssemblyReference.cache
+C:\Users\lenovo 330\source\repos\CatchTheCat\CatchTheCat\obj\Debug\CatchTheCat.Form1.resources
+C:\Users\lenovo 330\source\repos\CatchTheCat\CatchTheCat\obj\Debug\CatchTheCat.Properties.Resources.resources
+C:\Users\lenovo 330\source\repos\CatchTheCat\CatchTheCat\obj\Debug\CatchTheCat.csproj.GenerateResource.cache
+C:\Users\lenovo 330\source\repos\CatchTheCat\CatchTheCat\obj\Debug\CatchTheCat.exe
+C:\Users\lenovo 330\source\repos\CatchTheCat\CatchTheCat\obj\Debug\CatchTheCat.pdb
+C:\Users\NXsi_qew2\Desktop\all\CatchTheCat\CatchTheCat\bin\Debug\CatchTheCat.exe.config
+C:\Users\NXsi_qew2\Desktop\all\CatchTheCat\CatchTheCat\bin\Debug\CatchTheCat.exe
+C:\Users\NXsi_qew2\Desktop\all\CatchTheCat\CatchTheCat\bin\Debug\CatchTheCat.pdb
+C:\Users\NXsi_qew2\Desktop\all\CatchTheCat\CatchTheCat\obj\Debug\CatchTheCat.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\Desktop\all\CatchTheCat\CatchTheCat\obj\Debug\CatchTheCat.Form1.resources
+C:\Users\NXsi_qew2\Desktop\all\CatchTheCat\CatchTheCat\obj\Debug\CatchTheCat.Properties.Resources.resources
+C:\Users\NXsi_qew2\Desktop\all\CatchTheCat\CatchTheCat\obj\Debug\CatchTheCat.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\Desktop\all\CatchTheCat\CatchTheCat\obj\Debug\CatchTheCat.exe
+C:\Users\NXsi_qew2\Desktop\all\CatchTheCat\CatchTheCat\obj\Debug\CatchTheCat.pdb
